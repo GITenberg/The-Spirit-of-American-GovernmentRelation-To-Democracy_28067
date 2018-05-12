@@ -1,0 +1,32 @@
+_repo: The-Spirit-of-American-GovernmentRelation-To-Democracy_28067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, J. Allen (James Allen)
+    alias: Smith, James Allen
+    birthdate: 1860
+    deathdate: 1926
+    gutenberg_agent_id: '33117'
+    url: http://www.gutenberg.org/2009/agents/33117
+description: ''
+gutenberg_issued: '2009-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'JK'
+- !lcsh 'Constitutional history -- United States'
+- !lcsh 'United States -- Politics and government'
+title: 'The Spirit of American Government
+
+  A Study Of The Constitution: Its Origin, Influence And
+
+  Relation To Democracy'
+url: http://www.gutenberg.org/ebooks/28067
